@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WepWop
 - 👀 I’m interested in Computer Programming and Game Development
-- 🌱 I’m currently learning nothing really 
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me Discord: Tropii#3446
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on a discord bot with someone
+- 📫 How to reach me Discord: Tropiiツ#0001
